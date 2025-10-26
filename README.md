@@ -1,5 +1,7 @@
-## Hi there 👋
-
+Hello, I'm Adope Blessing 
+Data Analytics Student
+A Graduate Of The Department of Economics
+adopeblessing@gmail.com
 <!--
 **Adops19/Adops19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
